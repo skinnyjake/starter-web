@@ -13,3 +13,7 @@ This is a project used to learn git and github
 Testing difftool
 
 Testing diff to HEAD.  The last commit in the current branch.
+
+## Copyright
+
+Me
