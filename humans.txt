@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joe Long jl@gmail.com
 
 # THANKS
 
